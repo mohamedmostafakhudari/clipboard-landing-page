@@ -1,4 +1,3 @@
-import React from "react";
 import { workflow } from "../constants";
 import { styles } from "../styles";
 export default function Workflow() {
