@@ -19,8 +19,8 @@ export default {
         body: ["Bai Jamjuree", "sans-serif"],
       },
       backgroundImage: {
-        "pattern-desktop": "url('src/assets/images/bg-header-desktop.png')",
-        "pattern-mobile": "url('src/assets/images/bg-header-mobile.png')",
+        "pattern-desktop": "url('./assets/bg-header-desktop.png')",
+        "pattern-mobile": "url('./assets/bg-header-mobile.png')",
       },
       boxShadow: {
         primaryShadow:
